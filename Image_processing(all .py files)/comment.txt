@@ -1,1 +1,7 @@
+Here the code of some image processing contents are given.
+-all the file ar .py files 
+-so run it in environment(Spyder) which support python
+-before run, please select the correct image path from your pc
+-but if you run these codes to other environment which support python,then some code may have to chanage to display images
 
+THANKS.
